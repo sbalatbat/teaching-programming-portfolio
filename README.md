@@ -13,3 +13,5 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
   - [Nested Repeats with Mousey on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Nested_Repeats)
 - [Events: Falling Bananas \[Snap\]](https://youtu.be/nnj0NZtVqAU)
   - [Events with Monke on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Events])
+- [Variables: Drawing Shapes \[Snap\]](https://youtu.be/VLTs8sAZkII)
+  - [Variables with Shapes on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Variables)

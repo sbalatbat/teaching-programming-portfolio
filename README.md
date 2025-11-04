@@ -15,3 +15,5 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
   - [Events with Monke on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Events])
 - [Variables: Drawing Shapes \[Snap\]](https://youtu.be/VLTs8sAZkII)
   - [Variables with Shapes on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Variables)
+- [Conditional Repeats: Catch The Ball! \[Snap\]](https://youtu.be/Mm1NhLwHcrE)
+  - [Conditional Repeats with Soccer Ball on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Conditional_Loops)

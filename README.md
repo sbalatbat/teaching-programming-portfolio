@@ -19,3 +19,5 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
   - [Conditional Repeats with Soccer Ball on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=WP_Conditional_Loops)
 - [Conditional If/Else: What Animal Is Gurf? \[Snap\]](https://youtu.be/pfg1bCe54I0)
   - [If/Else with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Conditionals)
+- [Nested If/Else: How Far Should Gurf Go? \[Snap\]](https://youtu.be/XCu2CTzzqZA)
+  - [Nested If/Else with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Nested_IfElse)

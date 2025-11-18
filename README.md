@@ -4,6 +4,8 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
 
 ## Resources
 
+[Playlist on YouTube](https://www.youtube.com/playlist?list=PLBw3HD3zvrooCdYsXWLdWTSa4iPfmqtZQ) | [Snap! Profile](https://snap.berkeley.edu/user?username=miipmerp)
+
 - [Sequencing: Alonzo's House Drawing \[Snap\]](https://youtu.be/t7QPh7d-6OQ)
 - [Repeats: Demo with Gurf! \[Snap\]](https://youtu.be/7UeTzV3_0es)
   - [Demo with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Repeats)
@@ -21,3 +23,7 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
   - [If/Else with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Conditionals)
 - [Nested If/Else: How Far Should Gurf Go? \[Snap\]](https://youtu.be/XCu2CTzzqZA)
   - [Nested If/Else with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Nested_IfElse)
+
+----
+
+[*source*](https://github.com/sbalatbat/teaching-programming-portfolio/)

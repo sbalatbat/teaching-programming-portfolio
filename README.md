@@ -23,7 +23,8 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
   - [If/Else with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Conditionals)
 - [Nested If/Else: How Far Should Gurf Go? \[Snap\]](https://youtu.be/XCu2CTzzqZA)
   - [Nested If/Else with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Nested_IfElse)
-
+- [Compound Conditionals: Bouncing Gurf \[Snap\]](https://youtu.be/MELx4ekADHM)
+  - [Compound Conditionals with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Compound_Conditionals)
 ----
 
 [*source*](https://github.com/sbalatbat/teaching-programming-portfolio/)

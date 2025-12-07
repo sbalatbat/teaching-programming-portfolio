@@ -27,6 +27,8 @@ Welcome to Sarah's Teaching Programming Portfolio. Created in EDS 124BR FA25.
   - [Compound Conditionals with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Compound_Conditionals)
 - [Abstractions: Dance and Sing with Gurf \[Snap\]](https://youtu.be/DJmW46MzbUM)
   - [Abstractions with Gurf on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Abstractions)
+- [Lists: The Things Gurf Can Do \[Snap\]](https://youtu.be/VAE8fEFeqX4)
+  - [Lists: The Things Gurf Can Do on Snap!](https://snap.berkeley.edu/project?username=miipmerp&projectname=Demo_Lists)
 ----
 
 [*source*](https://github.com/sbalatbat/teaching-programming-portfolio/)
